@@ -1,0 +1,26 @@
+.word-display {
+  font-size: 2rem;
+  letter-spacing: 0.5em;
+  margin: 20px 0;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.form .design-system-input {
+  width: 50px;
+  height: 50px;
+  font-size: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 8px;
+}
+
+.guessed-letters-container {
+  margin-top: 20px;
+  color: #7f8c8d;
+}

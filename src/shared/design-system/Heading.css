@@ -1,0 +1,42 @@
+.design-system-heading {
+  color: #2c3e50;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+
+.design-system-heading.h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.design-system-heading.h2 {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.design-system-heading.h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.design-system-heading.h4 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.design-system-heading.h5 {
+  font-size: 1.125rem;
+  margin-bottom: 0.25rem;
+}
+
+.design-system-heading.h6 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
